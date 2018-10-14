@@ -1,4 +1,6 @@
 <html>
-<head><title>InizioWeb</title></head>
+<head>
+<link rel="bootstrap.min.css" href="/css/bootstrap.min.css">
+<title>InizioWeb</title></head>
 <body></body>
 </html>
